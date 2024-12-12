@@ -1,0 +1,228 @@
+.banner-div{
+    float: left;
+    width: 100%;
+}
+
+.banner-div img{
+    float: left;
+    width: 100%;
+}
+
+.main-div{
+    float: left;
+    width: 100%;
+}
+
+.main-left{
+    float: left;
+    width: 20%;
+    margin: 5% 0% 0% 15%;
+}
+
+.main-left img, .main-right img{
+    float: left;
+    width: 100%;
+}
+
+.main-right{
+    float: right;
+    width: 40%;
+}
+
+.main-right h1{
+    font-family: "Rubik Doodle Shadow", serif;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.gallery-div{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 3% 0% 3% 0%;
+    font-family: "Rubik Doodle Shadow", serif;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.gallery-div img{
+    float: left;
+    width: 20%;
+    height: 200px;
+}
+
+.volunteer-div{
+    float: left;
+    width: 100%;
+    margin: 5% 0% 7% 0%;
+
+}
+
+.volunteer-left{
+    float: left;
+    width: 23%;
+    margin: 0% 0% 0% 20%;
+}
+
+.volunteer-left img{
+    float: left;
+    width: 100%;
+    height: 550px;
+}
+
+.volunteer-right{
+    float: left;
+    width: 30%;
+    margin: 0% 0% 0% 7%;
+}
+.volunteer-right h1{
+    font-size: 50px;
+    font-family: "Rubik Doodle Shadow", serif;
+    font-weight: 400;
+}
+
+.volunteer-right p{
+    font-size: 25px;
+}
+
+.info-div{
+    float: left;
+    width: 100%;
+    background-color: rgb(70, 67, 67);
+    padding: 3% 0% 3% 0%;
+}
+
+.details{
+    float: left;
+    width: 23%;
+    color: aliceblue;
+    border: 2px solid aliceblue;
+    margin: 0% 0% 0% 8%;
+    height: 250px;
+}
+
+.details option{
+    background-color: black;
+    color: aliceblue;
+}
+
+.details h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.details p{
+    text-align: left;
+    font-size: 20px;
+    margin: 0% 0% 0% 17%;
+}
+
+.details input, .details select{
+    float: left;
+    width: 80%;
+    font-size: 25px;
+    margin: 3% 0% 0% 5%;
+    padding: 1% 0% 1% 0%;
+    background-color: transparent;
+    color: aliceblue;
+    border: 1px solid aliceblue;
+}
+
+.details button{
+    float: left;
+    width: 40%;
+    font-size: 25px;
+    margin: 3% 0% 0% 5%;
+}
+
+.footer-div{
+    float: left;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.crud-div{
+    float: left;
+    width: 40%;
+    border: 4px solid black;
+    margin: 10% 0% 0% 30%;
+}
+
+.crud-div a{
+    float: left;
+    width: 45%;
+    border: 3px solid black;
+    text-align: center;
+    margin: 2% 0% 2% 3%;
+    font-size: 20px;
+}
+
+.register-div, .update-div, .delete-div{
+    float: left;
+    width: 40%;
+    /* border: 4px solid black; */
+    margin: 2% 0% 0% 30%;
+}
+
+.update-div, .delete-div{
+    margin-top: 8%;
+}
+
+.register-div input, .register-div button, .update-div input, .update-div select, .update-div button, .delete-div input, .delete-div button{
+    float: left;
+    width: 80%;
+    font-size: 25px;
+    margin: 1% 0% 1% 10%;
+    padding: 1%;
+    border: 1px solid black;
+    background-color: transparent;
+}
+
+
+.view-div{
+    float: left;
+    width: 65%;
+    border: 3px solid black;
+    margin: 10% 0% 0% 17.5%;
+}
+
+.view-div table{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.view-div thead{
+    font-size: 30px;
+    background-color: antiquewhite;
+}
+
+.view-div tbody{
+    font-size: 25px;
+}
+
+.video-div{
+    float: left;
+    width: 70%;
+    margin: 2% 0% 0.5% 15%;
+    /* border: 4px solid black; */
+    text-align: center;
+    font-size: 35px;
+    box-shadow: 10px 10px 100px black;
+}
+
+.video-div iframe{
+    float: left;
+    width: 95%;
+    border: 8px solid black;
+    height: 500px;
+    margin: 0% 0% 0% 02%;
+}
